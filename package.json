@@ -42,6 +42,7 @@
     }
   },
   "dependencies": {
+    "js-tokens": "^6.0.0",
     "shell-quote": "^1.6.1"
   }
 }
