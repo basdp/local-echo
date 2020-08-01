@@ -1,6 +1,6 @@
 {
   "name": "local-echo",
-  "version": "0.2.0",
+  "version": "0.2.0-basdp",
   "description": "A local echo controller for xterm.js",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wavesoft/local-echo.git"
+    "url": "git+https://github.com/basdp/local-echo.git"
   },
   "keywords": [
     "xterm",
@@ -21,9 +21,9 @@
   "author": "Ioannis Charalampidis",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/wavesoft/local-echo/issues"
+    "url": "https://github.com/basdp/local-echo/issues"
   },
-  "homepage": "https://github.com/wavesoft/local-echo#readme",
+  "homepage": "https://github.com/basdp/local-echo#readme",
   "devDependencies": {
     "@babel/core": "^7.0.1",
     "@babel/preset-env": "^7.0.0",
